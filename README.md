@@ -19,7 +19,7 @@ For Ex : https://extensions.zoho.com/plugin/esign/handler?action=createAgreement
 9. Click Save.
 
 
-To auto-populate the recepient's email id or name:
+To auto-populate the recipient's email id or name:
 1. Create the following fields:
    1.1 Email field - Email Field type
    1.2 Contact Name field - LookUp field type to Contact module
